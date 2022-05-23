@@ -1,3 +1,3 @@
 /** @format */
 
-config1;
+config2;
